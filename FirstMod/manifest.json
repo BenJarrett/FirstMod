@@ -1,0 +1,10 @@
+{
+  "Name": "FirstMod",
+  "Author": "Ben Jarrett",
+  "Version": "1.0.0",
+  "Description": "First attemp at a mod",
+  "UniqueID": "BenJarrett.FirstMod",
+  "EntryDll": "FirstMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
